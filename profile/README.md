@@ -28,7 +28,7 @@ Vouch enables:
 
 ## Getting Started
 
-Jump into the 📖 **[vlayer Docs](https://docs.vlayer.xyz/introduction.html)** for a full introduction, developer guides, and architectural explanations.
+Jump into the  **[vlayer docs](https://docs.vlayer.xyz/introduction.html)** for a full introduction, developer guides, and architectural explanations.
 
 ---
 
@@ -54,7 +54,7 @@ By contributing, you agree that your contributions will be licensed under **BSL 
 
 ## Acknowledgements
 
-This project is inspired by and built upon the efforts of the open‑source community. Special thanks to:
+We would like to acknowledge the following open-source projects that inspired and provided a foundation for this work:
 
 * **[Steel](https://crates.io/crates/risc0-steel)** — Hardened off‑chain execution for EVM dapps.
 
