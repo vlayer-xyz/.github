@@ -40,7 +40,7 @@ We welcome contributions from the community! Visit the **[Contributing Guide](ht
 
 ## License
 
-vlayer v1.0 adopts a **dual licensing model**:
+vlayer v2.0 adopts a **dual licensing model**:
 
 * **vlayer Labs Ltd.** is the designated commercial licensor.
 * The public codebase is provided under the **Business Source License (BSL) 1.1)**.
