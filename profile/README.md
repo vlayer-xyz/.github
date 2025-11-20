@@ -5,7 +5,7 @@
 With **Web Proofs**, you gain a unified toolkit that supports:
 * [**server‑side proving**](https://docs.vlayer.xyz/server-side/introduction) for REST API, GraphQL or OAUTH calls.
 * [**client‑side proving**](https://docs.vlayer.xyz/client-side/introduction) via browser extension and mobile verifier apps for session‑based sites.
-* [**ZK proving**](https://docs.vlayer.xyz/blockchain/introduction), compressing proofs into zero-knowledge proofs so proofs can be verified on-chain .
+* [**ZK proving**](https://docs.vlayer.xyz/blockchain/introduction), compressing web proofs into zero-knowledge proofs so they can be verified on-chain.
 
 ---
 
