@@ -28,27 +28,13 @@ Vouch enables:
 
 ## Getting Started
 
-Jump into the  **[vlayer docs](https://docs.vlayer.xyz/introduction.html)** for a full introduction, developer guides, and architectural explanations.
+Jump into the  **[vlayer docs](https://docs.vlayer.xyz)** for a full introduction, developer guides, and architectural explanations.
 
 ---
 
 ## Contributing
 
 We welcome contributions from the community! Visit the **[Contributing Guide](https://book.vlayer.xyz/appendix/contributing/overview.html)** to learn about our development workflow, coding standards, and how to get involved.
-
----
-
-## License
-
-vlayer v2.0 adopts a **dual licensing model**:
-
-* **vlayer Labs Ltd.** is the designated commercial licensor.
-* The public codebase is provided under the **Business Source License (BSL) 1.1)**.
-* After three years, the license automatically converts to the **MIT License**.
-
-This model keeps the technology open for community innovation, protects early-stage development, and transitions to a fully permissive license to support long‑term growth.
-
-By contributing, you agree that your contributions will be licensed under **BSL 1.1**.
 
 ---
 
