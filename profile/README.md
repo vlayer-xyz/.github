@@ -48,4 +48,4 @@ We would like to acknowledge the following open-source projects that inspired an
 
 ## Security Audits
 
-* ✅ **Veridise Audit Report (Q2 2025)** — [View Report](./audits/audit-2025-q2-veridise.pdf)
+* ✅ **Veridise Audit Report (Q2 2025)** — [View Report](https://book.vlayer.xyz/static/audits/audit-2025-q2-veridise.pdf)
