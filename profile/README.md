@@ -30,22 +30,6 @@ Vouch enables:
 
 Jump into the  **[vlayer docs](https://docs.vlayer.xyz)** for a full introduction, developer guides, and architectural explanations.
 
----
-
-## Contributing
-
-We welcome contributions from the community! Visit the **[Contributing Guide](https://book.vlayer.xyz/appendix/contributing/overview.html)** to learn about our development workflow, coding standards, and how to get involved.
-
----
-
-## Acknowledgements
-
-We would like to acknowledge the following open-source projects that inspired and provided a foundation for this work:
-
-* **[Steel](https://crates.io/crates/risc0-steel)** — Hardened off‑chain execution for EVM dapps.
-
----
-
 ## Security Audits
 
-* ✅ **Veridise Audit Report (Q2 2025)** — [View Report](https://book.vlayer.xyz/static/audits/audit-2025-q2-veridise.pdf)
+* ✅ **Veridise Audit Report (version 1)** — [View Report](https://book.vlayer.xyz/static/audits/audit-2025-q2-veridise.pdf)
